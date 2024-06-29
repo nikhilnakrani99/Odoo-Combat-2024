@@ -9,7 +9,7 @@ Install Education Management system.
 4. Add google and Facebook authentication
 
 Maintainer:
-Harshid Patel
-Nirav Lakhani
-Nikhil Nakrani
+Harshid Patel,
+Nirav Lakhani,
+Nikhil Nakrani,
 
